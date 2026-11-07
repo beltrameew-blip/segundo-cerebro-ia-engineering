@@ -1,3 +1,4 @@
+[Acessar meu Segundo Cérebro com IA](https://notebook.google.com/notebook/3f126bd0-0531-4f2b-a92e-90604b2ab848)
 AI Engineering | Meu Segundo Cérebro com IA
 Projeto de portfólio — Desafio DIO: Acelere sua Aprendizagem com IA / NotebookLM  
 Autoria: Dayane Beltrame · Data: 7 de novembro de 2026  
