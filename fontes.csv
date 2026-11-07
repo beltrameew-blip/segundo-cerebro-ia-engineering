@@ -1,0 +1,6 @@
+﻿id,titulo,publicador,url,formato,justificativa_da_autoridade,uso,status
+F01,Python Tutorial,Python Software Foundation,https://docs.python.org/3/tutorial/,Web,Documentação oficial do Python,Funções e sintaxe,Importada
+F02,FastAPI First Steps,FastAPI,https://fastapi.tiangolo.com/tutorial/first-steps/,Web,Documentação oficial do framework,API REST e OpenAPI,Importada
+F03,What are AI agents?,Google Cloud,https://cloud.google.com/discover/what-are-ai-agents,Web,Publicação técnica oficial Google Cloud,Agentes inteligentes,Importada
+F04,CS50P Lecture 0 Functions Variables,Harvard CS50,https://www.youtube.com/watch?v=JP7ITIXGpHk,YouTube,Aula do curso CS50P,Python introdutório,Importada
+F05,OWASP GenAI LLM Top 10 2026,OWASP,https://genai.owasp.org/resource/owasp-genai-llm-top-10-2026/,PDF,Publicação oficial OWASP GenAI,Segurança de LLMs,Importada

@@ -1,0 +1,12 @@
+# Segredos e dados locais
+.env
+.env.*
+*.pem
+*.p12
+*.key
+secrets.*
+credentials.*
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc

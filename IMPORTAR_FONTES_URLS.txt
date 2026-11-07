@@ -1,0 +1,13 @@
+FONTES WEB (cole as URLs no painel Fontes do Gemini Notebook; confira os resultados)
+https://docs.python.org/3/tutorial/
+https://fastapi.tiangolo.com/tutorial/first-steps/
+https://cloud.google.com/discover/what-are-ai-agents
+
+VIDEOS PUBLICOS (importe via URL do YouTube; verifique se a transcricao foi reconhecida)
+https://www.youtube.com/watch?v=jFCNu1-Xdsw
+https://www.youtube.com/watch?v=T-D1OfcDW1M
+
+PDF OFICIAL — BAIXAR, CONFERIR E ENVIAR COMO ARQUIVO
+https://genai.owasp.org/resource/owasp-genai-llm-top-10-2026/
+
+A pagina da OWASP e a pagina de publicacao. Para garantir fonte PDF, use o botao Download do documento 2026 e faca o upload do PDF real. Nao conte a pagina HTML como um PDF importado.
